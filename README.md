@@ -9,43 +9,65 @@
 ---
 
 ## 🚀 Professional Summary
-Senior Software Engineer (SPOC) with **5+ years of experience** bridging **QA and Development**. Proven track record delivering **high-quality, scalable Flutter applications** and ensuring **stable production releases** through robust manual and automation testing. Experienced with **enterprise-grade systems**, payment integrations, and leading cross-functional teams.
+Senior Software Engineer (SPOC) with **5+ years of experience** bridging **QA and Development**. Proven expertise in delivering **production-ready Flutter applications** while ensuring **high-quality releases** through comprehensive manual and automation testing. Experienced in **enterprise-grade systems**, payment integrations, and technical leadership.
+
+---
+
+## 🧠 Languages
+- **Dart** (Advanced)
+- **Java** (Testing & Automation)
+- **JavaScript** (Web & Backend Basics)
+- **Python** (Scripting & Embedded Systems)
+- **SQL** (Database Testing & Validation)
+- **HTML / CSS**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 📱 Mobile Development
-- **Flutter & Dart** (Android & iOS – production apps)
-- Clean Architecture, **MVVM**
-- State Management: **BLoC/Cubit**, Provider, GetX
-- Firebase: Auth, Firestore, FCM, Cloud Functions
+- Flutter (Android & iOS – Production)
+- Clean Architecture, MVVM
+- State Management: BLoC/Cubit, Provider, GetX
+- Firebase (Auth, Firestore, FCM, Cloud Functions)
 - REST APIs (Dio / Retrofit)
 - Stripe Payments (Subscriptions & One-time)
 - Performance optimization & memory management
 - Unit, Widget & Integration Testing
 
 ### 🧪 QA & Testing
-- Manual, Smoke, Sanity, Regression & **UAT**
+- Manual, Smoke, Sanity, Regression & UAT Testing
 - Test Case Design (SRS & Business Requirements)
 - API Testing (Postman)
 - Performance Testing (JMeter)
 - Database Testing (SQL Server, MongoDB)
-- Automation: **Selenium (Java – Basic)**, **Appium (Basic)**
+- Automation: Selenium (Java – Basic), Appium (Basic)
 - Defect Tracking & Bug Lifecycle (Jira)
 
 ### 🌐 Web & Backend (Working Knowledge)
-- React.js, HTML, CSS, JavaScript
-- Node.js (Basic), Laravel
+- React.js
+- Node.js (Basic)
+- Laravel
 - RESTful APIs
 
 ---
 
+## 🧰 Tools Used
+- **Version Control:** Git, GitHub  
+- **IDEs:** Android Studio, VS Code  
+- **Testing Tools:** Postman, JMeter, Selenium, Appium  
+- **Project Management:** Jira, Trello  
+- **CI/CD:** GitHub Actions, Firebase CI/CD  
+- **Databases:** SQL Server, MongoDB, SQLite, Redis  
+- **Monitoring & Debugging:** Firebase Crashlytics, Logs Analysis  
+
+---
+
 ## 💡 Core Expertise
-- SPOC between **QA, QC & Development teams**
-- Production monitoring & issue analysis
-- Scalable app architecture & code quality
-- CI/CD & release management
+- SPOC between QA, QC & Development teams
+- Scalable Flutter architecture & clean code
+- Production monitoring & issue resolution
+- CI/CD pipelines & release management
 - Security, performance & best practices
 - Mentoring & technical leadership
 - Strong communication & stakeholder alignment
@@ -57,61 +79,43 @@ Senior Software Engineer (SPOC) with **5+ years of experience** bridging **QA an
 ### **Senior Software Engineer (QA & Flutter)**  
 **MO4 Network** | Mar 2024 – Present  
 - SPOC across mobile & web projects  
-- Designed and executed comprehensive test strategies  
+- Defined testing strategies & quality gates  
 - API, database & performance testing  
 - Production monitoring & log analysis  
-- Developed and maintained Flutter apps  
-- Integrated Firebase & Stripe payments  
+- Flutter development & Firebase integrations  
+- Stripe payment integration  
 
 ### **Software Engineer (QA & Flutter)**  
 **Ordaraway** | May 2021 – Feb 2024  
-- Converted SRS into test scenarios & cases  
-- Managed full defect lifecycle via Jira  
-- Regression, integration, usability & UI testing  
-- SQL Server database validation & CSV operations  
-- Built real-time Flutter apps with clean architecture  
+- Test scenario creation from SRS  
+- Full defect lifecycle management  
+- Regression & integration testing  
+- SQL Server database validation  
+- Real-time Flutter apps with clean architecture  
 
 ### **Technical Support Specialist**  
 **Xceed** | May 2021 – Feb 2024  
-- Customer issue resolution & escalation  
-- System monitoring & troubleshooting  
+- System monitoring & customer issue resolution  
+- Escalation handling & troubleshooting  
 
 ---
 
 ## 📌 Featured Projects
 
 ### **SceneNow** – Media & Lifestyle App  
-- Flutter, Provider, Google Auth  
-- Push Notifications, Deep Linking, REST APIs  
-- Available on **App Store**
+Flutter, Provider, Google Auth, Push Notifications, REST APIs  
 
 ### **VendorBot** – E-commerce & Deals  
-- Stripe Payments, Firebase Cloud Functions  
-- Background processing & subscriptions  
-- **App Store & Google Play**
+Stripe Payments, Firebase Cloud Functions, Subscriptions  
 
-### **EquinaCLUB** – Education & Booking Platform  
-- Trainer & client interfaces  
-- Google Maps, Real-time Chat, Payments  
-- **App Store & Google Play**
+### **EquinaCLUB** – Education & Booking  
+Google Maps, Real-time Chat, Payment Integration  
 
 ### **Smart Cart & POS System** – Embedded Flutter  
-- Flutter eLinux on Raspberry Pi 4  
-- Python Scripts, Redis, SQLite  
-- Offline-first retail innovation  
+Flutter eLinux, Python, Redis, SQLite, Raspberry Pi  
 
 ### **Quranic Institute** – EdTech Platform  
-- VOIP, Real-time Chat  
-- Subscription Management  
-- **App Store & Google Play**
-
----
-
-## 🔧 Tools & Practices
-- Git, GitHub
-- Jira, Trello
-- Android Studio, VS Code
-- Agile & Waterfall methodologies
+VOIP, Real-time Chat, Subscription Management  
 
 ---
 
@@ -122,7 +126,7 @@ Helwan University – Faculty of Computer & Artificial Intelligence
 
 ---
 
-## 📫 Contact & Links
+## 📫 Contact & Social Links
 - 📍 Giza, Egypt  
 - 📧 **Email:** ragabomar475@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/omar-ragab-236b6417b](https://linkedin.com/in/omar-ragab-236b6417b)  
@@ -131,8 +135,8 @@ Helwan University – Faculty of Computer & Artificial Intelligence
 ---
 
 ## 📊 GitHub Stats
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarragab21&show_icons=true&hide_title=true)
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarragab21&show_icons=true)
 
 ---
 
-⭐ *Open to senior Flutter, QA leadership, and long-term freelance opportunities.*
+⭐ *Open to senior Flutter roles, QA leadership positions, and long-term freelance opportunities.*
