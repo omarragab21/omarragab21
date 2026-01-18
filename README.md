@@ -9,16 +9,18 @@
 ---
 
 ## 🚀 Professional Summary
-Senior Software Engineer (SPOC) with **5+ years of experience** bridging **QA and Development**. Proven expertise in delivering **production-ready Flutter applications** while ensuring **high-quality releases** through comprehensive manual and automation testing. Experienced in **enterprise-grade systems**, payment integrations, and technical leadership.
+Senior Software Engineer (SPOC) with **5+ years of experience** bridging **QA and Development**. Strong background in **Flutter**, **native Android & iOS fundamentals**, and **end-to-end quality assurance**, delivering scalable, secure, and production-ready applications.
 
 ---
 
 ## 🧠 Languages
 - **Dart** (Advanced)
+- **Kotlin** (Android)
+- **Swift** (iOS)
 - **Java** (Testing & Automation)
 - **JavaScript** (Web & Backend Basics)
 - **Python** (Scripting & Embedded Systems)
-- **SQL** (Database Testing & Validation)
+- **SQL**
 - **HTML / CSS**
 
 ---
@@ -26,7 +28,9 @@ Senior Software Engineer (SPOC) with **5+ years of experience** bridging **QA an
 ## 🛠️ Tech Stack
 
 ### 📱 Mobile Development
-- Flutter (Android & iOS – Production)
+- **Flutter** (Android & iOS – Production)
+- **Jetpack Compose** (Modern Android UI)
+- **SwiftUI** (Modern iOS UI)
 - Clean Architecture, MVVM
 - State Management: BLoC/Cubit, Provider, GetX
 - Firebase (Auth, Firestore, FCM, Cloud Functions)
@@ -36,7 +40,7 @@ Senior Software Engineer (SPOC) with **5+ years of experience** bridging **QA an
 - Unit, Widget & Integration Testing
 
 ### 🧪 QA & Testing
-- Manual, Smoke, Sanity, Regression & UAT Testing
+- Manual, Smoke, Sanity, Regression & UAT
 - Test Case Design (SRS & Business Requirements)
 - API Testing (Postman)
 - Performance Testing (JMeter)
@@ -54,23 +58,22 @@ Senior Software Engineer (SPOC) with **5+ years of experience** bridging **QA an
 
 ## 🧰 Tools Used
 - **Version Control:** Git, GitHub  
-- **IDEs:** Android Studio, VS Code  
+- **IDEs:** Android Studio, Xcode, VS Code  
 - **Testing Tools:** Postman, JMeter, Selenium, Appium  
 - **Project Management:** Jira, Trello  
 - **CI/CD:** GitHub Actions, Firebase CI/CD  
 - **Databases:** SQL Server, MongoDB, SQLite, Redis  
-- **Monitoring & Debugging:** Firebase Crashlytics, Logs Analysis  
+- **Monitoring & Debugging:** Firebase Crashlytics, Log Analysis  
 
 ---
 
 ## 💡 Core Expertise
 - SPOC between QA, QC & Development teams
-- Scalable Flutter architecture & clean code
-- Production monitoring & issue resolution
-- CI/CD pipelines & release management
-- Security, performance & best practices
+- Cross-platform & native mobile development
+- Production monitoring & release stability
+- CI/CD pipelines & automation
+- App security, performance & scalability
 - Mentoring & technical leadership
-- Strong communication & stakeholder alignment
 
 ---
 
@@ -78,44 +81,31 @@ Senior Software Engineer (SPOC) with **5+ years of experience** bridging **QA an
 
 ### **Senior Software Engineer (QA & Flutter)**  
 **MO4 Network** | Mar 2024 – Present  
-- SPOC across mobile & web projects  
-- Defined testing strategies & quality gates  
+- SPOC across mobile & web teams  
+- Defined quality gates & testing strategies  
 - API, database & performance testing  
-- Production monitoring & log analysis  
-- Flutter development & Firebase integrations  
-- Stripe payment integration  
+- Flutter app development & maintenance  
+- Firebase services & Stripe integration  
 
 ### **Software Engineer (QA & Flutter)**  
 **Ordaraway** | May 2021 – Feb 2024  
-- Test scenario creation from SRS  
-- Full defect lifecycle management  
-- Regression & integration testing  
+- Test scenarios & defect lifecycle management  
+- Regression, integration & UI testing  
 - SQL Server database validation  
-- Real-time Flutter apps with clean architecture  
+- Real-time Flutter apps using clean architecture  
 
 ### **Technical Support Specialist**  
 **Xceed** | May 2021 – Feb 2024  
 - System monitoring & customer issue resolution  
-- Escalation handling & troubleshooting  
 
 ---
 
 ## 📌 Featured Projects
-
-### **SceneNow** – Media & Lifestyle App  
-Flutter, Provider, Google Auth, Push Notifications, REST APIs  
-
-### **VendorBot** – E-commerce & Deals  
-Stripe Payments, Firebase Cloud Functions, Subscriptions  
-
-### **EquinaCLUB** – Education & Booking  
-Google Maps, Real-time Chat, Payment Integration  
-
-### **Smart Cart & POS System** – Embedded Flutter  
-Flutter eLinux, Python, Redis, SQLite, Raspberry Pi  
-
-### **Quranic Institute** – EdTech Platform  
-VOIP, Real-time Chat, Subscription Management  
+- **SceneNow** – Media & Lifestyle App  
+- **VendorBot** – E-commerce & Deals  
+- **EquinaCLUB** – Education & Booking  
+- **Smart Cart & POS System** – Embedded Flutter (Raspberry Pi)  
+- **Quranic Institute** – EdTech Platform  
 
 ---
 
@@ -139,4 +129,4 @@ Helwan University – Faculty of Computer & Artificial Intelligence
 
 ---
 
-⭐ *Open to senior Flutter roles, QA leadership positions, and long-term freelance opportunities.*
+⭐ *Open to senior Flutter roles, mobile architecture positions, and QA leadership opportunities.*
